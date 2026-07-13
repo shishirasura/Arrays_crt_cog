@@ -11,6 +11,7 @@ M = [100, 250, 180, 500, 300, 400]
 Output :- 
 300
 '''
+//CODE
 def newstring(s):
     letter=''
     digit=''
