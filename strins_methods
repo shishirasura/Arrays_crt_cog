@@ -1,0 +1,17 @@
+a="python programming is easy,python is hard"
+print(a.index('p'))
+print(a.rindex('p'))
+print(a.capitalize())
+print(a.title())
+print(a.find('z'))
+print(a.find('p'))
+print(a.rfind('p'))
+print(a.startswith('p'))
+print(a.startswith("o"))
+print(a.endswith('ing'))
+print(a.endswith('p'))
+print(a.replace('python','java'))
+print(a.split(','))
+print(a.split())
+b=["shishira","chini","nikki"]
+print("=".join(b))
